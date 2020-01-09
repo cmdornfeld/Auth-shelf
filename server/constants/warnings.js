@@ -1,4 +1,5 @@
-const badSecret = `
+const badSecret = 'y4J>S.;twJJqj-US';
+`
 ----------------------------
 
 *** WARNING ***
